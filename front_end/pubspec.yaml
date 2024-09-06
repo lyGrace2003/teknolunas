@@ -1,0 +1,38 @@
+name: front_end
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.1.0
+  http: ^1.2.2
+  speech_to_text: ^7.0.0
+  camera: ^0.11.0+2
+  path_provider: ^2.1.4
+  permission_handler: ^11.3.1
+  http_parser: ^4.0.2
+  image: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
